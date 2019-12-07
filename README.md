@@ -21,6 +21,5 @@ async - await
 Métodos para modificar this dentro de una función:
 bind
 apply
------------------
 call
 
